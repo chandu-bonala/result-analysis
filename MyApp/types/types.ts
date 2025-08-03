@@ -3,6 +3,7 @@ export type RootStackParamList = {
   Result: undefined;
   Upload: undefined;
   CGPA: undefined;
-  Notifications: undefined;
+  Notification: undefined;
   Admin: undefined;
+  splash: undefined;
 };
